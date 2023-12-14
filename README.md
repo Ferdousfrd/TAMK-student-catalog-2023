@@ -1,4 +1,5 @@
 # Recruit Zilla
+This application is used by recruiters to quickly find interested candidates based on needs, shortening the time and energy spent by employers on recruitment. After recruiters log in, they can select the competencies they need and the corresponding courses to find students who have completed those courses. Candidates can be contacted via email for follow-up interviews.
 
 ## Installation and start up
 
